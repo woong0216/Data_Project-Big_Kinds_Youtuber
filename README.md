@@ -2,7 +2,7 @@
 #
 ## Implement Topic Modeling
 #
-### First, Crawling articles about YouTubers on the Big Kinds homepage.
+> First, Crawling articles about YouTubers on the Big Kinds homepage.
 #### I just uploaded the result file for this.
 #### The rest of the files will be implemented while running.
 #
